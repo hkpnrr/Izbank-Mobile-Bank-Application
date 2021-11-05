@@ -1,7 +1,7 @@
 # izbank
 
 Hi 
-I , Mete and Halil worked together to develop a mobile bank application
+I , Mete and Samet worked together to develop a mobile bank application
 While doing this application, tasks were shared with each team member.
 In order to be completely independent in this project, I learned the use of Git and Github with my teammates.
 In addition, we supported each other when necessary and repaired the problems.
